@@ -53,8 +53,10 @@ This project is a Java-based GUI application that visualizes trip data on an int
 
 ## Example Outputs
 ### GUI with Controls
+![GUI Example](./ComponentEx.png)
 
 ### Animation Example
+![Animation Example](./Animation.gif)
 
 ## File Structure
 - `Driver.class`: Main program file controlling the application flow.
